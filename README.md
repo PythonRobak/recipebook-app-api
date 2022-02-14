@@ -1,2 +1,2 @@
 # recipebook-app-api
-Recipebook aplication api source code
+Recipe app api source code
